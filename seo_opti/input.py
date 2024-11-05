@@ -1,3 +1,5 @@
+# this file manually separates each type of data like text and link and image references and stores them.
+
 import tkinter as tk
 from tkinter import simpledialog
 
